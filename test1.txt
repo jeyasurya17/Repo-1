@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 928A-1477
+
+ Directory of C:\Users\Aravi\Desktop\My GIT project
+
+06/05/20  08:32 PM    <DIR>          .
+06/05/20  08:32 PM    <DIR>          ..
+06/05/20  08:32 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  67,695,718,400 bytes free
